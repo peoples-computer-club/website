@@ -1,5 +1,5 @@
 AUTHOR = 'Eric'
-SITENAME = "Peoples' Computer Club"
+SITENAME = "People's Computer Club"
 SITEURL = ''
 
 PATH = 'content'
