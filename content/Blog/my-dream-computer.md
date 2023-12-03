@@ -1,6 +1,6 @@
 Title: My Dream Computer
 Date: 2023-12-03
-Category: Computer
+Tags: vision, philosophy, computer
 
 # The State of Modern "Personal" Computing
 Every day, when I use my laptop computer, I am both amazed at what I can do and how amazing my 4k display looks, but also I feel sadness, like I have lost something. My personal computer is so complex, I have no hope of understanding fully how it works, from the CPU, to the OS, to the graphics and sound, to the applications. And I feel like I am constantly fighting bit rot, changing interfaces, surveillance, and bloat. My computer is no longer personal, it's more like a modern mainframe capable of amazing things mostly outside my understanding and control. 

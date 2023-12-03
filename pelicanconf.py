@@ -2,14 +2,16 @@ AUTHOR = 'Eric'
 SITENAME = "People's Computer Club"
 SITEURL = ''
 
-PATH = 'content'
-
 TIMEZONE = 'America/New_York'
-
 DEFAULT_LANG = 'en'
 
+PATH = 'content'
+ARTICLE_PATHS = ['Blog']
+ARTICLE_SAVE_AS = '{date:%Y%m}/{slug}.html'
+ARTICLE_URL = '{date:%Y%m}/{slug}.html'
+
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
