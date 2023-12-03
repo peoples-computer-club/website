@@ -44,4 +44,6 @@ One value that naturally falls out from the values above is the idea of permacom
 
 My dream computer therefore will have hardware set in stone. Unchanging except if for some reason a particular part can no longer be found. I hope to choose hardware, however, that will have a long shelf life. You can, after all, still by 6502 processors. And for software, I would like to have the operating system complete enough that it could be placed in ROM, for nearly instant-on capability. And software and libraries, once written, will be celebrated when they reach a point where they don't have to be changed. That they are feature complete, and bug free. And because both the underlying hardware and OS will be stable as well, this should be possible.
 
+But permacomputing is not just the hardware, but also the software and the data. Software should be stable, taking the best practices and standards we have discovered over the last 50 years of computing and aggressively use them. Data, as much as possible, should not be locked into proprietary formats, but rather be text. UTF-8 should replace ASCII as the standard set of characters used in the text files. Where binary formats must exist, they should be fully documented with open source creation and extraction tools available. 
+
 
