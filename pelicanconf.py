@@ -6,7 +6,6 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
 PATH = 'content'
-ARTICLE_PATHS = ['Blog']
 ARTICLE_SAVE_AS = '{date:%Y%m}/{slug}.html'
 ARTICLE_URL = '{date:%Y%m}/{slug}.html'
 

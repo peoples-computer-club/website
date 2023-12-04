@@ -5,7 +5,7 @@ Tags: vision, philosophy, computer
 # The State of Modern "Personal" Computing
 Every day, when I use my laptop computer, I am both amazed at what I can do and how amazing my 4k display looks, but also I feel sadness, like I have lost something. My personal computer is so complex, I have no hope of understanding fully how it works, from the CPU, to the OS, to the graphics and sound, to the applications. And I feel like I am constantly fighting bit rot, changing interfaces, surveillance, and bloat. My computer is no longer personal, it's more like a modern mainframe capable of amazing things mostly outside my understanding and control. 
 
-The very first issue of the [People's Computer Company newsletter](https://archive.org/details/DigiBarnPeoplesComputerCompanyVol1No1Oct1972/mode/2up) had the following declaration on its cover:
+The very first issue of the [People's Computer Company newsletter](https://archive.org/details/DigiBarnPeoplesComputerCompanyVol1No1Oct1972/mode/2up) from October 1972 (when I turned three!) had the following declaration on its cover:
 
 ![People's Computer Company volume 1 issue 1 cover with the quote mentioned below]({static}/images/1972-10-PCC-cover-small.jpg)
 
