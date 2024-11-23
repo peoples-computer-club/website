@@ -1,6 +1,6 @@
 AUTHOR = 'Eric'
 SITENAME = "People's Computer Club"
-SITEURL = ''
+SITEURL = 'https://www.peoplescomputerclub.com'
 
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
@@ -17,16 +17,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = ()
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = ()
 
 DEFAULT_PAGINATION = False
+
+THEME='themes/basic'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
