@@ -1,6 +1,6 @@
 AUTHOR = 'Eric'
 SITENAME = "People's Computer Club"
-SITEURL = 'https://www.peoplescomputerclub.com'
+SITEURL = ''
 
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
@@ -24,7 +24,9 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = False
 
+# Theme options
 THEME='themes/basic'
+DISPLAY_CATEGORIES_ON_MENU=False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
